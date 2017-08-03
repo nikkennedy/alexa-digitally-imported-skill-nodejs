@@ -1,0 +1,20 @@
+{
+	"name": "alexa-digitally-imported-skill-nodejs",
+	"version": "1.0.0",
+	"description": "An web server and skill for playing digitally imported trance channels using nodejs",
+	"main": "server.js",
+	"author": "Nik Kennedy <github@hzdev.net>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nikkennedy/alexa-digitally-imported-skill-nodejs"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.14.1",
+		"body-parser": "^1.16.1",
+		"aws-lambda-mock-context": "^3.1.1",
+		"request": "^2.81.0",
+		"alexa-sdk": "^1.0.11",
+		"async": "^2.5.0"
+	}
+}
