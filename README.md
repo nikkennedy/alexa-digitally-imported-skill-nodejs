@@ -34,5 +34,8 @@ npm install
   ```bash
 node server.js
 ```
+you should then see "Digitally Imported Alexa Skill HTTPS Server:<IP>:<PORT> on your server terminal.
+
+4.  Say to your Alexa "Ask Digitally Imported to play trance channel" and as long as your server is running the channel should play.
 
 
