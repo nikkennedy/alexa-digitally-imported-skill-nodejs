@@ -10,8 +10,8 @@ var request    = require('request');
 
 var lambdaFunc = require('./lambdaDIFM');
 
-const serverPort = config.httpsServer.internalPort;//7685;
-const serverIP   = config.httpsServer.internalIP;//"192.168.2.98";
+const serverPort = config.httpsServer.internalPort;
+const serverIP   = config.httpsServer.internalIP;
 
 // SSL Certificate - highly recommend using a free (yes free) letsencrypt.org ssl certificate
 var privateKey  = fs.readFileSync("./sslcert/privkey.pem", 'utf8');
