@@ -1,0 +1,5 @@
+You need to place private key and certificate in this directory
+privkey.pem - private key
+fullchain.pem - certificate
+
+take a look at letsencrypt.org for free ssl certificates (don't pay for them!)
