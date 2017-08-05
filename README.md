@@ -4,6 +4,8 @@ An Alexa Skill for playing Digitally Imported (www.di.fm) channels using nodejs 
 
 This will require a premium DI.FM account
 
+This is a standalone server and skill - i would recommend reading how this works and then setting up the alexa at home server with the alexa at home di.fm skill that way you can run more than one skill on the same server.
+
 ## How to Start 
 #### So many steps skipped along the way, if you need any help feel free to email me
 
